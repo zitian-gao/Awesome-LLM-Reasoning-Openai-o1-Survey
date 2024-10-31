@@ -49,6 +49,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers** [[Paper](https://arxiv.org/pdf/2408.06195)] [[Github](https://github.com/zhentingqi/rStar)] (2024)
   - Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang
   - MSRA, Harvard University
+- **Interpretable Contrastive Monte Carlo Tree Search Reasoning** [[Paper](https://arxiv.org/abs/2410.01707)] [[Github](https://github.com/zitian-gao/SC-MCTS)] (2024)
+  - Zitian Gao, Boye Niu, Xuzheng He, Haotian Xu, Hongzhang Liu, Aiwei Liu, Xuming Hu, Lijie Wen
+  - The University of Sydney, Peking University, Xiaohongshu, Shanghai AI Lab, Tsinghua University, HKUST, HKUST(Guangzhou)
 
 ### Reasoning Scaling Law
 - **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling** [[Paper](https://arxiv.org/pdf/2407.21787)] (2024)
